@@ -1,0 +1,29 @@
+{
+  "name": "ejemplo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "codex": "codex",
+    "opencode": "opencode",
+    "openclaw": "openclaw"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@openai/codex": "^0.153.2",
+    "openclaw": "^2026.9.1",
+    "opencode-ai": "^1.18.28"
+  },
+  "allowScripts": {
+    "@google/genai@2.18.0": true,
+    "koffi@3.1.6": true,
+    "openclaw@2026.9.1": true,
+    "opencode-ai@1.18.28": true,
+    "protobufjs@7.6.6": true,
+    "tree-sitter-bash@0.25.1": true
+  }
+}
