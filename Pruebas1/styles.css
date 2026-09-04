@@ -35,7 +35,7 @@ nav .nav-cta { padding: 11px 14px; border: 1px solid rgba(255,255,255,.45); colo
 .eyebrow span { display: inline-block; width: 28px; height: 2px; background: var(--lime); }
 h1, h2 { margin: 0; font-family: var(--display); font-weight: 700; line-height: .82; letter-spacing: -.03em; text-transform: uppercase; }
 h1 { font-size: clamp(78px, 11vw, 176px); }
-h1 em, h2 em { color: var(--lime); font-style: normal; }
+h1 em, h2 em { color: var(--red); font-style: normal; }
 .intro { max-width: 390px; margin: 35px 0 44px; color: rgba(255,253,248,.72); font-size: 14px; line-height: 1.75; }
 .hero-actions { gap: 32px; }
 .button { display: inline-flex; align-items: center; gap: 25px; padding: 15px 18px; font-size: 10px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; transition: transform .2s ease, background .2s ease; }
